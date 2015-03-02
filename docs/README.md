@@ -1,7 +1,8 @@
 
 ## Ontology
 
- * *OID* = OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/ro.owl>) VersionIRI(<http://purl.obolibrary.org/obo/ro/releases/2015-02-11/ro.owl>))
+ * *OID* = http://purl.obolibrary.org/obo/ro.owl
+ * *Version* = http://purl.obolibrary.org/obo/ro/releases/2015-02-11/ro.owl
 
 ## Classes
 
@@ -72,6 +73,9 @@
  * [quality](BFO/19/BFO_0000019.md)
  * [mutualism](GO/30/GO_0085030.md)
  * [realizable entity](BFO/17/BFO_0000017.md)
+
+## ObjectProperties
+
  * [ends](RO/29/RO_0002229.md)
  * [develops in](RO/26/RO_0002226.md)
  * [develops from part of](RO/25/RO_0002225.md)
@@ -472,6 +476,3 @@
  * [ends with](RO/30/RO_0002230.md)
  * [has component](RO/80/RO_0002180.md)
  * [transcribed from](RO/10/RO_0002510.md)
-
-## ObjectProperties
-
